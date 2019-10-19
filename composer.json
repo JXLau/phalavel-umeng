@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Phalavel\\Push\\Umeng\\": "src",
+            "Phalavel\\Push\\Umeng\\": "src"
         }
     },
     "autoload-dev": {
