@@ -1,0 +1,30 @@
+{
+    "name": "phalavel/umpush",
+    "description": "push for phalavel",
+    "keywords": [
+        "phalavel",
+        "umeng"
+    ],
+    "homepage": "https://github.com/JXLau/phalavel-umeng",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JXLau",
+            "email": "liuzhixing@applepi.cn"
+        }
+    ],
+    "require": {
+        "php" : "~7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Phalavel\\Push\\Umeng\\": "src",
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Phalavel\\Push\\Umeng\\": "tests"
+        }
+    },
+     "minimum-stability": "stable"
+}
