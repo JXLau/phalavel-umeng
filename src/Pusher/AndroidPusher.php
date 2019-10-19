@@ -10,7 +10,7 @@ use Phalavel\Push\Umeng\Android\AndroidFilecast;
 use Phalavel\Push\Umeng\Android\AndroidGroupcast;
 use Phalavel\Push\Umeng\Android\AndroidListcast;
 use Phalavel\Push\Umeng\Android\AndroidUnicast;
-use Log;
+
 
 class AndroidPusher extends Pusher
 {

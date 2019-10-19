@@ -10,7 +10,7 @@ use Phalavel\Push\Umeng\IOS\IOSFilecast;
 use Phalavel\Push\Umeng\IOS\IOSGroupcast;
 use Phalavel\Push\Umeng\IOS\IOSListcast;
 use Phalavel\Push\Umeng\IOS\IOSUnicast;
-use Log;
+
 class IOSPusher extends Pusher
 {
 
